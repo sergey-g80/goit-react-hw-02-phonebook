@@ -7,8 +7,11 @@ export const SectionContainer = styled.section`
   justify-content: center;
   justify-items: center;
   gap: 14px;
+  background-color: aquamarine;
 `;
 
 export const Title = styled.h2`
   margin: 0;
+  color: bleack;
+  font-size: 40px;
 `;
